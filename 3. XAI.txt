@@ -1,0 +1,7 @@
+                       Explainable AI (XAI)
+Explainable Artificial Intelligence (XAI) is a field of Artificial Intelligence (AI) that promotes a set of tools,
+techniques, and algorithms that can generate high-quality interpretable, human-understandable explanations of AI decisions.
+Even when we understand the underlying mathematics of current machine learning architectures, it is often impossible to get
+insight into the internal working of the models; we need explicit modelling and reasoning tools to explain how and why a 
+result was achieved. Explainability is one of the most important features, it is the process of understanding how and why
+the Machine Learning Model making a prediction. It can also help in validation of Model, robustness and accuracy.
